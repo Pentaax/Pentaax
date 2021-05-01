@@ -1,4 +1,4 @@
-### Hai there 👋
+### Hi there 👋
 
 - ☕ Java Developer
 - 💻 PHP, Python, HTML Developer
